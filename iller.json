@@ -4,37 +4,41 @@
   "Nufus": "151.500",
   "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/merkez.jpg",
   "ResimDetayURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/merkez.jpg", 
-  "Aciklama": "<p>Kastamonu sadece</p>"
+  "Aciklama": "Kastamonu sadece"
   },
   {
   "IlAdi": "Tosya",
   "Nufus": "39.637",
   "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/tosya.jpg",
-  "Aciklama": "<p>Tosya sadece</p>"
+  "ResimDetayURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/tosya.jpg",
+  "Aciklama": "Tosya sadece"
   },
   {
   "IlAdi": "TaşKöprü",
   "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/taskopru.jpg",
   "Nufus": "37.439",
-  "Aciklama": "<p>Taşköprü, Türkiye'nin Karadeniz Bölgesi'nde yer alan Kastamonu ilinin bir ilçesidir.</p>"
+  "Aciklama": "Taşköprü, Türkiye'nin Karadeniz Bölgesi'nde yer alan Kastamonu ilinin bir ilçesidir."
   },
   {
   "IlAdi": "Cide",
-  "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/cide.jpg",
   "Nufus": "20.877",
-  "Aciklama": "<p>Cide, Türkiye Cumhuriyeti'nin Karadeniz Bölgesi'nde yer alan Kastamonu ilinin bir ilçesidir.</p>"
+  "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/cide.jpg",
+  "ResimDetayURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/cide.jpg",
+  "Aciklama": "Cide, Türkiye Cumhuriyeti'nin Karadeniz Bölgesi'nde yer alan Kastamonu ilinin bir ilçesidir."
   },
   {
   "IlAdi": "İnebolu",
-  "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/inebolu.jpg",
   "Nufus": "20.877",
-  "Aciklama": "<p>İnebolu’nun hangi tarihte kurulduğu kesin olarak bilinmemekle beraber 2400 yıl önce .</p>"
+  "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/inebolu.jpg",
+  "ResimDetayURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/inebolu.jpg",
+  "Aciklama": "İnebolu’nun hangi tarihte kurulduğu kesin olarak bilinmemekle beraber 2400 yıl önce ."
   },
   {
   "IlAdi": "Araç",
-  "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/arac.jpg",
   "Nufus": "18.149",
-  "Aciklama": "<p>Anadolu’daki en eski yerleşim bölgelerinden biri olan Araç</p>"
+  "ResimURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/arac.jpg",
+  "ResimDetayURL": "https://raw.githubusercontent.com/emresoysal1907/h5200019emresoysal/main/arac.jpg",
+  "Aciklama": "Anadolu’daki en eski yerleşim bölgelerinden biri olan Araç."
 	}
 ]
 
